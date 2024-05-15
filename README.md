@@ -1,4 +1,4 @@
-# Objetivo
+# Goal
 
 This project was designed to learn in practice about frontend applications
 
