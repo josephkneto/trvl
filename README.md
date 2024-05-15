@@ -1,3 +1,7 @@
+# Objetivo
+
+This project was designed to learn in practice about frontend applications
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
