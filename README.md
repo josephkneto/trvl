@@ -1,6 +1,12 @@
-# Goal
+# Goal (Objetivo)
 
-This project was designed to learn in practice about frontend applications
+This project was designed to learn in practice about react frontend applications
+
+Esse projeto foi feito por mim em busca de aprender na prática React para frontend
+
+<br>
+<br>
+<br>
 
 # Getting Started with Create React App
 
