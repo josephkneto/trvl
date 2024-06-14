@@ -2,6 +2,8 @@
 
 This project was designed to learn in practice about react frontend applications
 
+<br>
+
 Esse projeto foi feito por mim em busca de aprender na prática React para frontend
 
 <br>
