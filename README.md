@@ -48,5 +48,4 @@ I created this project to:
 
 ## 👤 Author
 
-**Joseph Neto**  
-Feel free to explore, fork, or contribute!
+**Joseph Kallas**  
